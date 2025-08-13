@@ -14,3 +14,5 @@ O projeto reproduz o layout principal da Tesla, incluindo imagens, vídeos e inf
 
 - HTML5
 - CSS3
+
+<h3>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br">DevClub</a></h3>
